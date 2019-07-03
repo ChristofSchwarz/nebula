@@ -30,9 +30,15 @@ nebula serve
  * Build a hypercube (combination of dimensions and measures) which underlies your picasso chart
  * Turn on "Cache" in the Changes you save are hot-replaced in the browser using localhost:8000
  * Use your code editor of choice and edit folder "./src", in particular "pic-definitions.js" 
+ 
+\!\[alttext\](https://github.com/ChristofSchwarz/pics/raw/master/nebula (1).png "screenshot1") 
+
+\!\[alttext\](https://github.com/ChristofSchwarz/pics/raw/master/nebula (2).png "screenshot2") 
+
 
 ## Create Qlik Sense extension from project
  * When done with the picasso extension, stop the webservice (Press Ctrl+C in the Command Prompt where you ran nebula serve before)
+\!\[alttext\](https://github.com/ChristofSchwarz/pics/raw/master/nebula (3).png "screenshot3") 
 ```
 nebula sense
 ```
@@ -43,4 +49,5 @@ nebula sense --ext ./src/accordion.js
  * This will create a new subfolder called "<projectname>-ext"
  * You can zip this folder and upload the extension via the QMC of your Qlik Sense Server 
  * or copy the folder to %userprofile%\Documents\Qlik\Sense\Extensions to use it as a Custom Visualization in Qlik Sense Desktop
+
 

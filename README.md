@@ -29,7 +29,7 @@ nebula serve
  * Select an app to test your Picasso chart against
  * Build a hypercube (combination of dimensions and measures) which underlies your picasso chart
  * Turn on "Cache" in the Changes you save are hot-replaced in the browser using localhost:8000
- * Use your code editor of choice and edit file ./src/pic-definitions.js
+ * Use your code editor of choice and edit folder "./src", in particular "pic-definitions.js" 
 
 ## Create Qlik Sense extension from project
  * When done with the picasso extension, stop the webservice (Press Ctrl+C in the Command Prompt where you ran nebula serve before)

@@ -1,6 +1,10 @@
 # NebulaJS - Framework for PicassoJS Extensions
 
-NebulaJS is currently in beta. It is a testing framework for PicassoJS, you can pick a chart template to begin with (including brushing/selecting) and output a Qlik Sense Extension when done. 
+It is a testing framework for PicassoJS, you can pick a chart template to begin with (including brushing/selecting) and output a Qlik Sense Extension when done. 
+
+> Note: NebulaJS is still in beta (July 2019)
+> Link: https://www.npmjs.com/package/@nebula.js/cli
+
 
 ## How to install? (1st time use)
  * Install NodeJS and NPM 

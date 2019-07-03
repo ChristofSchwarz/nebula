@@ -10,7 +10,7 @@ npm install @nebula.js/cli@latest –g
 ```
 ## Start a new nebula project
 ```
-npm run create <projectname>
+nebula create <projectname>
 ```
  * Asks you for your package manager (yarn or npm) and for the template to start (use "barchart")
  * This creates a new subfolder and loads several node_modules

@@ -31,9 +31,9 @@ nebula serve
  * Turn on "Cache" in the Changes you save are hot-replaced in the browser using localhost:8000
  * Use your code editor of choice and edit folder "./src", in particular "pic-definitions.js" 
  
-![alttext](https://github.com/ChristofSchwarz/pics/raw/master/nebula (1).png "screenshot1") 
+![alttext]("https://github.com/ChristofSchwarz/pics/raw/master/nebula (1).png" "screenshot1") 
 
-![alttext](https://github.com/ChristofSchwarz/pics/raw/master/nebula (2).png "screenshot2") 
+![alttext]("https://github.com/ChristofSchwarz/pics/raw/master/nebula (2).png" "screenshot2") 
 
 
 ## Create Qlik Sense extension from project

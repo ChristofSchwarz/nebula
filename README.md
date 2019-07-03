@@ -30,6 +30,7 @@ nebula serve
  * Build a hypercube (combination of dimensions and measures) which underlies your picasso chart
  * Turn on "Cache" in the Changes you save are hot-replaced in the browser using localhost:8000
  * Use your code editor of choice and edit folder "./src", in particular "pic-definitions.js" 
+ * Copy/paste existing Picasso chart examples from https://picassojs.com/examples.html or https://observablehq.com/@miralemd
  
 <img src="https://github.com/ChristofSchwarz/pics/raw/master/nebula (3).png" width="500"/> 
 <img src="https://github.com/ChristofSchwarz/pics/raw/master/nebula (1).png" width="500"/>
@@ -51,4 +52,4 @@ nebula sense --ext ./src/accordion.js
  * You can zip this folder and upload the extension via the QMC of your Qlik Sense Server 
  * or copy the folder to %userprofile%\Documents\Qlik\Sense\Extensions to use it as a Custom Visualization in Qlik Sense Desktop
 
-
+Enjoy

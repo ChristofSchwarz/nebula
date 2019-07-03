@@ -21,7 +21,7 @@ export default {
           uses: "settings"
         }
       }
-    }
+    },
     support: {
       snapshot: true,
     }

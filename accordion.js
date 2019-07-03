@@ -6,13 +6,13 @@ export default {
       items:{
         dimensions: {
           uses: "dimensions",
-          min: 2,
+          min: 1,
           max: 2
         },
         measures: {
           uses: "measures",
           min: 1,
-          max: 1
+          max: 2
         },
         sorting: {
           uses: "sorting"

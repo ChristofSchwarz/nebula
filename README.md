@@ -40,7 +40,7 @@ nebula serve
  * Use your code editor of choice and edit folder "./src", in particular "pic-definitions.js" 
  * Copy/paste existing Picasso chart examples from https://picassojs.com/examples.html or https://observablehq.com/@miralemd
  
-> if you change the number of Dimensions or Measures, adjust the qHypercube size and properties:
+> if you change the number of Dimensions or Measures, adjust qWidth/qHeight and the properties:
 <img src="https://github.com/ChristofSchwarz/pics/raw/master/nebula4.png" />
 
 

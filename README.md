@@ -31,13 +31,17 @@ nebula serve
 ```
  * This starts a webservice on http://localhost:8000 
  * Select an app to test your Picasso chart against
+<img src="https://github.com/ChristofSchwarz/pics/raw/master/nebula (3).png" width="500"/> 
+ 
  * Build a hypercube (combination of dimensions and measures) which underlies your picasso chart
+<img src="https://github.com/ChristofSchwarz/pics/raw/master/nebula (1).png" width="500"/>
+ 
  * Turn on "Cache" in the Changes you save are hot-replaced in the browser using localhost:8000
  * Use your code editor of choice and edit folder "./src", in particular "pic-definitions.js" 
  * Copy/paste existing Picasso chart examples from https://picassojs.com/examples.html or https://observablehq.com/@miralemd
  
-<img src="https://github.com/ChristofSchwarz/pics/raw/master/nebula (3).png" width="500"/> 
-<img src="https://github.com/ChristofSchwarz/pics/raw/master/nebula (1).png" width="500"/>
+> if you change the number of Dimensions or Measures, adjust the qHypercube size and properties:
+<img src="https://github.com/ChristofSchwarz/pics/raw/master/nebula4.png" />
 
 
 ## Create Qlik Sense extension from project

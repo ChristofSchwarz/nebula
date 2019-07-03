@@ -40,7 +40,7 @@ nebula serve
  * Use your code editor of choice and edit folder "./src", in particular "pic-definitions.js" 
  * Copy/paste existing Picasso chart examples from https://picassojs.com/examples.html or https://observablehq.com/@miralemd
  
-> if you change the number of Dimensions or Measures, adjust qWidth/qHeight in object-properties.js and the Min/Max of data.js:
+> if you change the number of Dimensions or Measures, adjust qWidth/qHeight in object-properties.js and the Min/Max of data.js (in case you added accordion.js, too, adjust Min/Max settings there as well):
 <img src="https://github.com/ChristofSchwarz/pics/raw/master/nebula4.png" />
 
 

@@ -31,14 +31,14 @@ nebula serve
  * Turn on "Cache" in the Changes you save are hot-replaced in the browser using localhost:8000
  * Use your code editor of choice and edit folder "./src", in particular "pic-definitions.js" 
  
-<img src="https://github.com/ChristofSchwarz/pics/raw/master/nebula (3).png" width="400"/> 
-<img src="https://github.com/ChristofSchwarz/pics/raw/master/nebula (1).png" width="400"/>
+<img src="https://github.com/ChristofSchwarz/pics/raw/master/nebula (3).png" width="500"/> 
+<img src="https://github.com/ChristofSchwarz/pics/raw/master/nebula (1).png" width="500"/>
 
 
 ## Create Qlik Sense extension from project
  * When done with the picasso extension, stop the webservice (Press Ctrl+C in the Command Prompt where you ran nebula serve before)
 
-<img src="https://github.com/ChristofSchwarz/pics/raw/master/nebula (2).png" />
+<img src="https://github.com/ChristofSchwarz/pics/raw/master/nebula (2).png" width="500"/>
 
 ```
 nebula sense

@@ -38,7 +38,7 @@ nebula serve
 ## Create Qlik Sense extension from project
  * When done with the picasso extension, stop the webservice (Press Ctrl+C in the Command Prompt where you ran nebula serve before)
 
-<img src="https://github.com/ChristofSchwarz/pics/raw/master/nebula (2).png" width="500"/>
+<img src="https://github.com/ChristofSchwarz/pics/raw/master/nebula 2.png" width="500"/>
 
 ```
 nebula sense

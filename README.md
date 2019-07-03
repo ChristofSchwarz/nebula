@@ -15,6 +15,12 @@ npm run create <projectname>
  * Asks you for your package manager (yarn or npm) and for the template to start (use "barchart")
  * This creates a new subfolder and loads several node_modules
  * Start your Qlik Sense Desktop and log in, so that it is ready to use
+
+> If you want to add "accordion menu" to the extension later, also download and add <a href="https://github.com/ChristofSchwarz/nebula/raw/master/accordion.js">this file</a> into /src folder.  
+```
+curl https://raw.githubusercontent.com/ChristofSchwarz/nebula/master/accordion.js >./src/accordion.js
+```
+## Live-view your changes
 ```
 cd <projectname>
 nebula serve
@@ -24,8 +30,6 @@ nebula serve
  * Build a hypercube (combination of dimensions and measures) which underlies your picasso chart
  * Turn on "Cache" in the Changes you save are hot-replaced in the browser using localhost:8000
  * Use your code editor of choice and edit file ./src/pic-definitions.js
-
-> If you want to add "accordion menu" to the extension later, also download and add <a href="https://github.com/ChristofSchwarz/nebula/raw/master/accordion.js">this file</a> into /src
 
 ## Create Qlik Sense extension from project
  * When done with the picasso extension, stop the webservice (Press Ctrl+C in the Command Prompt where you ran nebula serve before)

@@ -20,4 +20,9 @@ cd <projectname>
 nebula serve
 ```
  * This starts a webservice on http://localhost:8000 
+ * Select an app to test your Picasso chart against
+ * Turn on "Cache" in the Changes you save are hot-replaced in the browser using localhost:8000
+ * Use your code editor of choice and edit file ./src/pic-definitions.js
+ * If you want to add "accordion menu" to the extension later, also download and add <a href="https://github.com/ChristofSchwarz/nebula/raw/master/accordion.js">this file</a> into /src
+
  
